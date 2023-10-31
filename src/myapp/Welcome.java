@@ -8,6 +8,7 @@ public class Welcome {
 		System.out.println(50*60);
 		System.out.println("Hurray we did it");
 		System.out.println("Happy Holidays");
+		System.out.println("Testing integration with Jenkins");
 		
 		
 	}
