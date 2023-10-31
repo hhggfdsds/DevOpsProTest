@@ -6,6 +6,7 @@ public class Welcome {
 		
 		System.out.println("Welcome to Code Lab Technology");
 		System.out.println(50*60);
+		System.out.println("Hurray we did it");
 		
 		
 	}
