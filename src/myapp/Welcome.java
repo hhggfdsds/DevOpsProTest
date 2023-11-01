@@ -13,6 +13,7 @@ public class Welcome {
 		System.out.println("This Winter Amazon offers $100 discount on iPhone 14 Pro");
 		System.out.println("Buy 1 Get 1 offer on American Eagle T-shirts");
 		System.out.println("Hollowen offer for you buy atleast $200 get surprise gift");
+		System.out.println("Hurray we did it");
 		
 		
 	}
