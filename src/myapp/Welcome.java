@@ -10,6 +10,7 @@ public class Welcome {
 		System.out.println("Happy Holidays");
 		System.out.println("Testing integration with Jenkins");
 		System.out.println("Testing again manual build");
+		System.out.println("This Winter Amazon offers $100 discount on iPhone 14 Pro");
 		
 		
 	}
